@@ -21,6 +21,7 @@ I recommend that you use C++11 over Java due to various reasons, such as
   * miscellaneous shortcuts such as #define, typedef, auto
   * good STL
  
+ 
 ## Resources
 
 ### Lists
