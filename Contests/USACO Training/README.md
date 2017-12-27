@@ -33,8 +33,8 @@ A sampling of some of the USACO training solutions which I have completed follow
 
 | Section         | Name                         | Topic            | Result                 |
 | ------------- | ------------------------------------- |---------------| ---------------------- |
-| 3.1 | agrinet | Spanning Tree | Done |
-| 3.2 | msquare | DFS+ | Done |
+| 3.1 | agrinet | Spanning Tree |  |
+| 3.2 | msquare | DFS+ |  |
 | 3.3 | camelot | Graphs | Done |
 | 3.3 | range | DP | Done |
 
